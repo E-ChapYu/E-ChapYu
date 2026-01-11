@@ -1,6 +1,7 @@
 ## Hi there 👋
 Tis just a account for school
 yuh.
+ - wait whats a gpu again
 
 <!--
 **E-ChapYu/E-ChapYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
