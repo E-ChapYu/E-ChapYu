@@ -1,4 +1,6 @@
 ## Hi there 👋
+Tis just a account for school
+yuh.
 
 <!--
 **E-ChapYu/E-ChapYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
